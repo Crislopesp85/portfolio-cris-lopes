@@ -1,0 +1,233 @@
+BRIEFING DE PORTFÓLIO
+Documento de referência para desenvolvimento do site
+Cris Lopes — Designer de Apresentações & Estrategista de Eventos
+
+  Sobre este documento
+  Este briefing foi criado para orientar o programador no desenvolvimento do portfólio online de Cris Lopes. Contém a seleção dos slides mais atrativos de cada projeto, a justificativa de escolha de cada um, descrições dos projetos e instruções específicas de apresentação.
+  Para cada projeto há: contexto do trabalho, slides recomendados (com número exato e justificativa) e orientações especiais onde necessário.
+
+Perfil Profissional
+Nome	Cris Lopes
+
+Empresa	Zooba Comunicação & Live MKT / omz.ag
+
+Especialidades	Apresentações corporativas em PowerPoint, design de eventos, campanhas de incentivo, criação de imagens com IA
+
+Diferencial	Uso de inteligência artificial para criar ilustrações, mock-ups e imagens conceituais para projetos corporativos
+
+Behance	https://www.behance.net/lopespcris
+
+
+Visão Geral dos Projetos
+O portfólio cobre 6 projetos principais, divididos em 3 categorias:
+
+🎪 EVENTOS CORPORATIVOS
+FTD Travessia • Mastercard EG26 • Claro Zooba • Zurich/Carrefour	🏆 CAMPANHAS DE INCENTIVO
+Votorantim Cimentos • Amigoz	📚 APRESENTAÇÕES EDUCACIONAIS
+XII Encontro Integra (FTD Educação)
+
+
+  ★  DESTAQUE: USO DE INTELIGÊNCIA ARTIFICIAL
+  Um dos grandes diferenciais do trabalho de Cris Lopes é o uso de IA generativa para criar imagens, ilustrações e mock-ups de produtos que vão direto para as apresentações e, em alguns casos, são adotados pelos próprios clientes como material real do evento. Isso deve ser destacado no portfólio com um badge/tag visual especial.
+  Exemplos notáveis: bolsa Zurich (cliente adotou a ilustração), lata Z-Energy, Lab 360° (painel futurista), super-heróis Amigoz, ponte cenográfica FTD, e todas as ativações do Evento Travessia FTD.
+ 
+Projeto 1 — FTD Travessia: Ativações do Evento
+  Evento Travessia FTD 2026 — Ativações
+Cliente: FTD Educação (via Zooba)     Tipo: Planejamento de evento corporativo com ativações experienciais
+  IA GENERATIVA    EVENTO    EXPERIÊNCIA   
+Proposta completa de ativações para o Evento Travessia FTD 2026, um encontro corporativo de grande porte para a equipe da FTD Educação. Cris criou TODAS as imagens de ambientação e ativações usando inteligência artificial, para ilustrar como cada espaço e experiência seria no evento real — antes mesmo da produção física acontecer.
+Destaques do projeto:
+•	Todas as imagens de ativações foram criadas do zero com IA generativa
+•	Criação da ponte cenográfica 'A travessia começa aqui' (imagem completamente gerada por IA)
+•	Mock-up do celular com QR Code para o Mapa da Travessia
+•	Layout profissional azul royal + lilás com identidade visual coerente
+•	Inclui ativações: Primeiro Passo, Cabine da Travessia, Mapa da Travessia, Game Conexões, Olhar da Travessia, Cartas da Travessia, Ponto de Recarga
+
+Slides selecionados para o portfólio:
+Slide	Título / Seção	Por que usar no portfólio
+1	Capa — Evento Travessia FTD 2026	Identidade visual forte, mascote, paleta azul/lilás impactante
+3	Experiências que apoiam a Travessia	Foto profissional + ícones, layout bipartido limpo
+4	O primeiro passo — A travessia começa aqui	⭐ IMAGEM GERADA POR IA — ponte cenográfica futurista com farol, névoa e caixas. Peça central do portfólio
+5	Cabine da Travessia	Layout bipartido moderno, foto de cabine de vídeo profissional
+6	Mapa da Travessia — QR Code	⭐ IMAGEM GERADA POR IA — mock-up de celular com tela personalizada e QR code
+7	Mapa da Travessia — foto do evento real	Foto real do painel interativo no evento — contraste entre o planejado (IA) e o realizado
+8	Game Conexões	Layout bipartido, foto real do evento de networking
+9	O olhar da Travessia	Foto real com participantes — registro da experiência
+
+Nota especial para o programador:
+  IMPORTANTE: Os slides 4 e 6 contêm imagens 100% geradas por IA por Cris Lopes. No portfólio, esses slides devem ter um badge ou tag visual indicando 'Imagem criada com IA'. Este é um dos maiores diferenciais do trabalho.  
+ 
+Projeto 2 — Zurich no Evento do Banco Carrefour
+  Zurich no Evento Banco Carrefour
+Cliente: Zurich Seguros (via Zooba)     Tipo: Proposta de ativação de marca para evento corporativo
+  IA GENERATIVA    MOCK-UP    BRANDING    EVENTO   
+Proposta de participação da Zurich Seguros no evento 'Nossa força em movimento' do Banco Carrefour (650 participantes). Cris criou uma série de mock-ups de produtos e ativações usando IA generativa. O caso mais notável: a ilustração da ecobag foi tão aprovada pelo cliente que a Zurich adotou o mesmo design para o produto real do evento.
+Destaques do projeto:
+•	Ecobag com pinceladas azuis — ilustração criada com IA e ADOTADA pelo cliente para o evento real
+•	Mock-up de lata de energético 'Zurich Z-Energy' com design completo gerado por IA
+•	Painel 'Lab 360° de Proteção' — interface futurista em vidro, criada com IA
+•	Layout bipartido elegante com identidade Zooba + Zurich
+•	Deck completo cobre: conceito, entregas, ativação interativa, plenária, pós-almoço e encerramento
+•	Identidade azul escuro Zurich com toques de azul claro e branco
+
+Slides selecionados para o portfólio:
+Slide	Título / Seção	Por que usar no portfólio
+1	Capa — Zurich no evento do Banco Carrefour	Identidade visual sólida, azul escuro elegante
+2	O evento — dados e objetivos	Layout bipartido com foto arredondada + dados do evento. Limpo e informativo
+3	Entregas e contrapartidas Zurich	Ícones sobre foto escurecida — comunicação visual eficiente
+4	Conceito — Movimento gera evolução	Texto grande + atleta em destaque. Slide de conceito muito elegante
+5	Gift de chegada — Ecobag Zurich	⭐ IMAGEM GERADA POR IA — bolsa com pinceladas azuis. Cliente adotou esta ilustração no produto real
+9	Lab 360° de Proteção	⭐ IMAGEM GERADA POR IA — painel futurista em vidro com 4 categorias de seguros
+14	Pós-almoço — Zurich Z-Energy	⭐ IMAGEM GERADA POR IA — mock-up de lata de energético com design de marca completo
+15	Abertura com violino LED	Layout bipartido impactante com artista em destaque
+17	Abertura — The Piano Stage	Artista circense + layout bipartido vibrante. Composição visual forte
+
+Nota especial para o programador:
+  CASO DE SUCESSO PARA DESTACAR: A ilustração da ecobag (slide 5) foi criada por Cris com IA e o cliente a aprovou e utilizou no produto físico real do evento. Isso demonstra a qualidade e aplicabilidade das imagens geradas. Sugere-se criar um bloco 'Do conceito ao real' mostrando o slide ao lado da foto do produto final.  
+ 
+Projeto 3 — Mastercard no Encontro de Gestores 2026
+  Mastercard — Encontro de Gestores 2026
+Cliente: Mastercard / DVA (via Zooba)     Tipo: Proposta de ativação de marca em evento corporativo — 2 dias
+  EVENTO    BRANDING    MOCK-UP   
+Proposta de presença da Mastercard no Encontro de Gestores 2026. O projeto cria o conceito 'Lounge Surpreenda Mastercard', com ativações para dois dias de evento incluindo kit de boas-vindas, lounge exclusivo, carrinho de minissonhos e carrinho de Bubble Tea. Destaque para os mock-ups do espaço Mastercard criados em 3D.
+Destaques do projeto:
+•	Proposta de Lounge Mastercard com ambientação premium em preto, vermelho e amarelo
+•	Mock-up 3D do espaço físico do lounge (renderização profissional)
+•	Kit de boas-vindas com ecobag personalizada 'Experiências que despertam suas paixões'
+•	Ativações: Carrinho de Minissonhos (manhã) e Carrinho Bubble Tea (tarde)
+•	Paleta escura + laranja Mastercard — muito elegante e premium
+•	Estrutura para 2 dias de evento com ativações diferentes
+
+Slides selecionados para o portfólio:
+Slide	Título / Seção	Por que usar no portfólio
+1	Capa — Mastercard no EG26	Identidade visual forte. Fundo preto com identidade Zooba
+4	Kit de boas-vindas	Foto da ecobag personalizada + texto. Layout limpo e premium
+5	Lounge Mastercard — conceito	Texto + foto do mock-up do espaço real. Muito impactante
+6	Render 3D do Lounge	⭐ Mock-up 3D do espaço com sofás, totens e logo Mastercard iluminado. Demonstra visão espacial e capacidade de apresentação
+8	Carrinho de Minissonhos	Duas fotos + texto. Layout dinâmico mostrando a ativação do Dia 1
+9	Carrinho Bubble Tea	Bubble tea com logo Mastercard no copo — ótimo exemplo de branding em produto
+
+Nota especial para o programador:
+  O slide 6 (render 3D do lounge) é especialmente valioso: demonstra a capacidade de visualização espacial e apresentação tridimensional de ambientes.  
+ 
+Projeto 4 — Campanha de Incentivo Votorantim Cimentos
+  Campanha de Incentivo — Votorantim Cimentos
+Cliente: Votorantim Cimentos (via omz.ag + Zooba)     Tipo: Planejamento de campanha de incentivo corporativa anual
+  CAMPANHA DE INCENTIVO    ENGAJAMENTO    PLATAFORMA DIGITAL   
+Proposta completa de campanha de incentivo para os colaboradores da Votorantim Cimentos nos seus 90 anos, com o mote 'O futuro se constrói — em cada entrega'. Inclui plataforma digital gamificada, sistema de pontuação, premiações e ações de valorização de talentos para escritórios e fábricas em todo o Brasil.
+Destaques do projeto:
+•	Campanha temática nos 90 anos da Votorantim Cimentos
+•	Ecossistema digital gamificado com dashboard, ranking e metas individuais e coletivas
+•	Categorias de premiação bimestral com itens personalizados (camisas Reserva, bolsa térmica, etc.)
+•	Ação 'Talento Oculto' — concurso criativo com votação aberta na plataforma
+•	Estrutura para escritórios e fábricas em todo o Brasil
+•	Identidade visual amarelo + preto, marca omz.ag + Zooba
+
+Slides selecionados para o portfólio:
+Slide	Título / Seção	Por que usar no portfólio
+2	Capa — Campanha Votorantim	Título da campanha com o mote impactante. Fundo preto com detalhe dourado
+3	A Campanha — objetivos	Foto de evento real da Votorantim + texto de contexto. Muito autêntico
+5	Ecossistema — infográfico circular	Gráfico de rosca com as 4 pilastras do ecossistema. Visual claro e profissional
+12	Talento Oculto — ação criativa	Slide dinâmico com logo do concurso + ícones de engajamento + foto
+ 
+Projeto 5 — Campanha de Incentivo Amigoz
+  Amigoz — Campanha de Incentivo
+Cliente: Amigoz Seguros (via Zooba)     Tipo: Campanha de incentivo para equipe comercial e parceiros
+  IA GENERATIVA    CAMPANHA DE INCENTIVO    SUPER-HERÓIS   
+Campanha de incentivo para o time comercial e corbans da Amigoz em todo o Brasil. O conceito central é heroico: os parceiros são tratados como 'verdadeiros heróis da produção qualificada'. O diferencial visual: Cris criou personagens de super-heróis usando IA para representar os perfis de vendedores de destaque da campanha — um uso criativo e original de IA em contexto B2B.
+Destaques do projeto:
+•	Conceito heroico: os participantes são super-heróis da produção qualificada
+•	Super-heróis criados com IA para representar perfis de top performers (Comercial de Ferro, Agente Ticket, etc.)
+•	Plataforma digital com gamificação: ranking semanal, catálogo de premiações, avatares
+•	Identidade visual azul celeste + roxo degradê + branco
+•	Mock-up de smartphone com dashboard da plataforma (gerado com IA)
+•	Personagens adaptáveis ao perfil dos top players — proposta muito inovadora
+
+Slides selecionados para o portfólio:
+Slide	Título / Seção	Por que usar no portfólio
+2	Capa — Amigoz Campanha de Incentivo	Foto com overlay turquesa + logo. Muito elegante e dinâmica
+3	Conceito — super-heróis	Super-herói em gradiente lilás/azul + texto de conceito poderoso
+5	Objetivo da campanha	4 ícones em fundo azul celeste. Layout simples e muito legível
+8	Plataforma digital	⭐ IMAGEM GERADA POR IA — mock-up de smartphone com dashboard gamificado
+15	Comercial de Ferro — super-heróis IA	⭐ IMAGEM GERADA POR IA — mosaico de super-heróis estilo HQ criados para a campanha
+16	Agente Ticket — super-herói IA	⭐ IMAGEM GERADA POR IA — variação do herói com estilo cartoon/cômico dourado
+
+Nota especial para o programador:
+  Os slides 15 e 16 são exemplos extraordinários do uso de IA: Cris criou personagens de super-heróis originais para representar os perfis de performance dos participantes da campanha. São imagens 100% geradas por IA com direcionamento conceitual e criativo de Cris. Devem ter destaque especial no portfólio com o badge 'IA'.  
+ 
+Projeto 6 — XII Encontro Integra (FTD Educação)
+  XII Encontro Integra — FTD Educação
+Cliente: FTD Educação / Rede Integra     Tipo: Apresentação educacional para evento internacional
+  EDUCAÇÃO    APRESENTAÇÃO CORPORATIVA    IDENTIDADE VISUAL   
+Apresentação para o XII Encontro Integra da FTD Educação, com tema 'Centro de Gestão de Conhecimento'. O evento reúne educadores e gestores de escolas Maristas da América Latina e Caribe. A apresentação tem identidade visual única — gradiente turquesa/verde com estrelas — e ilustrações do Rio de Janeiro ao fundo, criando um visual diferente e sofisticado.
+Destaques do projeto:
+•	Identidade visual única: gradiente turquesa/verde vivo com estrelas estilizadas
+•	Ilustrações do Rio de Janeiro ao fundo (Cristo Redentor, vista aérea), tema do encontro
+•	Conteúdo internacionalizado: cobre México (Puebla), Colômbia (Medellín), República Dominicana e Brasil
+•	Layouts bipartidos com fotos arredondadas + texto
+•	Design muito diferente do padrão corporativo — mostra versatilidade de estilo
+
+Slides selecionados para o portfólio:
+Slide	Título / Seção	Por que usar no portfólio
+1	Capa — XII Encontro Integra	Gradiente turquesa/verde vibrante com estrelas + Rio de Janeiro ao fundo. Identidade visual muito única
+2	Magistério pontifício — Vaticano	Foto arredondada da Basílica de São Pedro + texto. Composição muito elegante
+3	Tudo interconectado	Foto de mãos dadas sobre gradiente turquesa. Layout emocional e impactante
+5	A Igreja e a Educação na América Latina	4 fotos de cidades arredondadas em mosaico. Layout muito visual e geográfico
+10	Encerramento — Cristo Redentor	Ilustração suave do Cristo Redentor e paisagem do Rio. Slide de encerramento elegante
+ 
+Instruções para o Programador — Como Montar o Portfólio
+Estrutura Sugerida da Página
+A página de portfólio deve ter uma única página scrollável (one-page) com as seguintes seções:
+
+•	Hero / Apresentação: nome, título profissional, breve bio, link para o Behance
+•	Sobre o diferencial de IA: bloco destacado explicando o uso de IA generativa
+•	Projetos: cards ou seções para cada projeto (6 no total)
+•	Contato: formulário ou links de contato
+
+Como Apresentar os Slides
+Cada projeto deve ter:
+•	Uma galeria de slides em carrossel ou grid (usar os slides indicados neste briefing)
+•	O nome do cliente, tipo de projeto e tags (Evento, Campanha, IA, etc.)
+•	Uma descrição curta do projeto (2-3 linhas)
+•	Destaques em bullets
+
+Badge de Inteligência Artificial
+  ★ REGRA IMPORTANTE: Todo slide que contiver uma imagem criada com IA deve ter um badge/tag visível 'IA Generativa' ou 'Criado com IA'. Isso é um diferencial competitivo e deve estar em destaque.
+
+Slides que obrigatoriamente precisam do badge de IA:
+•	FTD Travessia — Slide 4: ponte cenográfica
+•	FTD Travessia — Slide 6: mock-up de celular com QR Code
+•	Zurich/Carrefour — Slide 5: ecobag com pinceladas (adotada pelo cliente!)
+•	Zurich/Carrefour — Slide 9: painel Lab 360° de Proteção
+•	Zurich/Carrefour — Slide 14: lata Zurich Z-Energy
+•	Amigoz — Slide 8: mock-up de smartphone
+•	Amigoz — Slides 15-16: super-heróis para os perfis da campanha
+
+Como Exportar os Slides
+Os slides devem ser exportados como imagens PNG ou JPG diretamente do PowerPoint:
+•	No PowerPoint: Arquivo > Exportar > Alterar Tipo de Arquivo > PNG ou JPEG
+•	Resolução recomendada: 1920x1080px (Full HD) ou maior
+•	Exportar apenas os slides indicados neste documento (número exato listado em cada projeto)
+•	Nomear os arquivos de forma organizada: ex. 'ftd-travessia-slide04-ponte-ia.png'
+
+Referências Visuais do Portfólio
+•	Behance de Cris Lopes: https://www.behance.net/lopespcris
+•	Perfil Instagram da Zooba (empresa): verificar com Cris
+•	Estilo: moderno, corporativo, com uso sutil de gradientes — seguir a paleta dos próprios projetos
+
+Paleta de Cores Sugerida para o Site
+Azul Escuro #1B3A6B	Laranja Destaque #E8500A	Azul Claro #EEF3FA	Preto #222222
+
+
+Resumo — Slides Selecionados por Projeto
+Projeto	Slides a usar	Arquivo PPTX
+FTD Travessia — Ativações ★	1, 3, 4, 5, 6, 7, 8, 9	ativações_ftd_travessia_1303.pptx
+Zurich / Banco Carrefour ★	1, 2, 3, 4, 5, 9, 14, 15, 17	Zurich_bancocarrefour_0603.pptx
+Mastercard EG26	1, 4, 5, 6, 8, 9	Mastercard_EG26_v2.pptx
+Votorantim Cimentos	2, 3, 5, 12	Votorantim_campanhadeincentivo.pptx
+Amigoz — Campanha ★	2, 3, 5, 8, 15, 16	Amigoz_campanhadeincentivo_v1.pptx
+XII Encontro Integra	1, 2, 3, 5, 10	INTEGRA_ON_v1.pptx
+
+
+★ = projetos com destaque especial em uso de IA
+Dúvidas? Entrar em contato diretamente com Cris Lopes.

@@ -1,6 +1,2 @@
-remote: warning: See https://gh.io/lfs for more information.        
-remote: warning: File Mastercard_EG26_v2.pptx is 79.34 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
-remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To https://github.com/Crislopesp85/portfolio-cris-lopes.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
+   8a28111..01bb53c  main -> main

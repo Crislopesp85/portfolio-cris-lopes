@@ -672,7 +672,7 @@
       <div class="hero-foto-accent"></div>
       <img src="Cris.png" alt="Cris Lopes" class="hero-foto" />
       <div class="hero-stats">
-        <strong>6+</strong>
+        <strong>7+</strong>
         <span>Projetos no portfólio</span>
       </div>
     </div>
@@ -721,10 +721,29 @@
       <span class="section-label">Portfólio</span>
       <h2 class="section-title">Projetos <span>Selecionados</span></h2>
     </div>
-    <p style="color:var(--cinza); font-size:0.85rem; max-width:280px;">6 projetos de design para eventos, campanhas e apresentações corporativas.</p>
+    <p style="color:var(--cinza); font-size:0.85rem; max-width:280px;">7 projetos de design para eventos, campanhas e apresentações corporativas.</p>
   </div>
 
   <div class="projects-grid">
+
+    <!-- PROJETO 0: UNIPAR -->
+    <div class="project-card" onclick="openModal('m0')">
+      <div class="project-thumb">
+        <img src="img/unipar-slide18.png" alt="Unipar Fenasan 2026" />
+        <div class="ia-badge-thumb">★ IA</div>
+      </div>
+      <div class="project-body">
+        <div class="project-tags">
+          <span class="tag ia">✦ IA Generativa</span>
+          <span class="tag">Evento</span>
+          <span class="tag">Design de Slides</span>
+        </div>
+        <div class="project-client">Unipar</div>
+        <h3 class="project-name">Unipar na Fenasan 2026 — Proposta de Presença</h3>
+        <p class="project-desc">Design da proposta de participação da Unipar na Fenasan 2026, com mock-up 3D adaptado do estande, infográfico do evento e slides estratégicos criados com IA a partir da identidade do cliente.</p>
+        <span class="project-link">Ver projeto →</span>
+      </div>
+    </div>
 
     <!-- PROJETO 1: FTD -->
     <div class="project-card" onclick="openModal('m1')">
@@ -838,6 +857,36 @@
 </div>
 
 <!-- MODAIS -->
+<div class="modal-overlay" id="m0" onclick="closeModal(event, 'm0')">
+  <div class="modal">
+    <div class="modal-carousel" id="mc0">
+      <div class="modal-track">
+        <div class="modal-slide"><img src="img/unipar-slide18.png" alt=""></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide17.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide32.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide33.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide34.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide35.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide36.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide38.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+        <div class="modal-slide" style="position:relative"><img src="img/unipar-slide42.png" alt=""><div class="modal-ia-badge">★ Criado com IA</div></div>
+      </div>
+      <button class="modal-btn prev" onclick="mSlide('mc0',-1)">‹</button>
+      <button class="modal-btn next" onclick="mSlide('mc0',1)">›</button>
+      <div class="modal-dots" id="mdc0"></div>
+      <button class="modal-close" onclick="closeModalBtn('m0')">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="project-tags" style="margin-bottom:0.75rem;">
+        <span class="tag ia">✦ IA Generativa</span><span class="tag">Evento</span><span class="tag">Design de Slides</span>
+      </div>
+      <div class="project-client">Unipar</div>
+      <h3 class="project-name">Unipar na Fenasan 2026 — Proposta de Presença</h3>
+      <p class="project-desc">Design da proposta de presença da Unipar na Fenasan 2026. O mock-up 3D do estande foi adaptado a partir do material fornecido pelo cliente, e um infográfico foi criado para sintetizar os dados do evento. Os slides finais foram desenvolvidos com apoio de IA, pensando na identidade visual da Unipar e do projeto, e no que a marca queria comunicar sobre o evento e a proposta.</p>
+    </div>
+  </div>
+</div>
+
 <div class="modal-overlay" id="m1" onclick="closeModal(event, 'm1')">
   <div class="modal">
     <div class="modal-carousel" id="mc1">

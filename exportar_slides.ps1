@@ -37,6 +37,11 @@ $projetos = @(
     arquivo = "INTEGRA_ON_v1.pptx"
     slides  = @(1, 2, 3, 5, 10)
     prefix  = "integra"
+  },
+  @{
+    arquivo = "Unipar_fenasan_2026_v2 - ajustes.pptx"
+    slides  = @(17, 18, 32, 33, 34, 35, 36, 38, 42)
+    prefix  = "unipar"
   }
 )
 
